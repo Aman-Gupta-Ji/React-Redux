@@ -1,4 +1,4 @@
-import Counter from './components/Counter.class';
+import Counter from './components/Counter';
 
 
 function App() {
